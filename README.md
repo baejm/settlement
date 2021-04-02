@@ -6,7 +6,11 @@
 
 
 # 동작 설명
-![baejm 블로그](https://user-images.githubusercontent.com/35725338/113370119-069cfe80-939e-11eb-92bc-b75dd6aeabfd.gif)
+
+https://baejm.github.io/settlement/
+
+![정산소용 관리프로그램](https://user-images.githubusercontent.com/35725338/113384494-1da11800-93c1-11eb-9c19-6521bd38005a.gif)
+
 
 ## 설명 
 ```
